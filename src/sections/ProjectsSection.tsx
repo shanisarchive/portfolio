@@ -7,7 +7,8 @@ const ProjectsSection = () => {
 
   const featuredProject = {
     name: 'FounderOS',
-    description: 'Revolutionary mobile operating system for entrepreneurs and innovators',
+    description: 'FounderOS is a minimalist daily OS for startup founders.
+Track your top 3 priorities, follow-ups, and reflections — all offline.',
     launchDate: 'July 26, 2025',
     platforms: ['iOS App Store', 'Google Play Store'],
     status: 'Coming Soon',
