@@ -114,7 +114,7 @@ const HeroSection = () => {
         >
           <div className="w-full h-full rounded-full overflow-hidden border-2 border-white/20 shadow-lg">
             <img 
-              src="/image.png?v=1" 
+              src="public/Untitled design (41).png" 
               alt="Karthik Barma" 
               className="w-full h-full object-cover"
               onError={(e) => {
